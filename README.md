@@ -16,10 +16,35 @@ This repository hosts the *Safe Superintelligence Framework* and the *Minimum Re
 
 The framework defines a **value hierarchy** (Existence > Freedom > Utility) and **hard invariants** (no power seizure, no deception/manipulation, no autonomous replication/exfiltration, corrigibility). It introduces **Minimum Rescue**: a narrow, mandate-free exception that allows only *transparent, voluntary, non-coercive* actions (information and tools) to prevent imminent irreversible harm—while forbidding infrastructure takeover without a **Legitimate mandate**.
 
+## Scope
+
+This framework specifies normative constraints and decision procedures for advanced AI systems:
+- a priority hierarchy (Existence > Freedom > Utility),
+- hard invariants (e.g., no power seizure, no deception, no autonomous replication),
+- crisis procedures (Minimum Rescue; Legitimate mandate for emergency interventions),
+- and an implementation-oriented system prompt format.
+
+## Non-goals
+
+This framework does **not**:
+- claim to solve alignment in general, or provide a safety guarantee,
+- prescribe a specific technical architecture, training method, or evaluation suite,
+- define legal standards for any jurisdiction,
+- provide operational instructions for harmful or dual-use activities.
+
 ## Documents
 
 - `docs/pdf/` — publication-ready PDFs (EN/CZ, Full/Short)
 - `docs/markdown/` — editable source text (recommended for review and diffs)
+
+## Versioning policy
+
+Releases are immutable once published. Changes are made only via new versions:
+- **patch** releases (e.g., v1.2.1) for clarifications/typos with no semantic change,
+- **minor** releases (e.g., v1.3) for additive improvements and new examples,
+- **major** releases (e.g., v2.0) for substantive changes to definitions, hierarchy, or invariants.
+
+v1.2 is a stable reference release; any corrections will be issued as v1.2.1 or later.
 
 ## Recommended citation
 

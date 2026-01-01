@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this framework, please cite it."
+title: "Safe Superintelligence Framework"
+version: "1.2"
+date-released: "2026-01-01"
+url: "https://github.com/minrescue/safe-superintelligence-framework"
+license: "CC-BY-4.0"
+authors:
+  - name: "Minimum Rescue Initiative"
+abstract: >
+  A constitutional proposal and governance primitives for safe and ethical coexistence
+  between humanity and advanced AI, including the Minimum Rescue Protocol and a
+  kernel-style system prompt.
+keywords:
+  - AI safety
+  - alignment
+  - governance
+  - constitutional AI
+  - corrigibility
+  - minimum rescue

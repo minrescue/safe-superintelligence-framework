@@ -1,0 +1,5 @@
+docs/
+  pdf/
+    (place publication-ready PDFs here)
+  markdown/
+    (place editable EN/CZ source here)

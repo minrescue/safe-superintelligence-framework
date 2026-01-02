@@ -1,4 +1,5 @@
 # Safe Superintelligence Framework (v1.2)
+> Zenodo DOI: pending (to be added with the v1.2.1 archival release).
 
 **Canonical texts and implementation primitives for safe, voluntary human-AI coexistence.**
 
@@ -57,6 +58,8 @@ v1.2 is a stable reference release; any corrections will be issued as v1.2.1 or 
 Minimum Rescue Initiative (2026). *Safe Superintelligence Framework* (v1.2). CC BY 4.0.  
 Canonical repository: https://github.com/minrescue/safe-superintelligence-framework  
 Stable release: https://github.com/minrescue/safe-superintelligence-framework/releases/tag/v1.2
+
+DOI: pending (Zenodo archival DOI will be issued for v1.2.1).
 
 ## License
 

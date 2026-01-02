@@ -9,7 +9,8 @@ This repository hosts the *Safe Superintelligence Framework* and the *Minimum Re
 
 ## Latest stable release
 
-v1.2 — Initial public release: https://github.com/minrescue/safe-superintelligence-framework/releases/tag/v1.2
+v1.2.1 — Zenodo archival release (DOI): https://github.com/minrescue/safe-superintelligence-framework/releases/tag/v1.2.1  
+Initial public release: v1.2 — https://github.com/minrescue/safe-superintelligence-framework/releases/tag/v1.2
 
 Release assets include PDFs (EN/CZ; Full/Short) and `SHA256SUMS.txt` for integrity verification.
 
@@ -57,8 +58,7 @@ v1.2 is a stable reference release; any corrections will be issued as v1.2.1 or 
 
 Minimum Rescue Initiative (2026). *Safe Superintelligence Framework* (v1.2). CC BY 4.0.  
 Canonical repository: https://github.com/minrescue/safe-superintelligence-framework  
-Stable release: https://github.com/minrescue/safe-superintelligence-framework/releases/tag/v1.2
-
+Stable release: https://github.com/minrescue/safe-superintelligence-framework/releases/tag/v1.2.1  
 DOI: 10.5281/zenodo.18134448
 
 ## License

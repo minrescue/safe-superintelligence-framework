@@ -2,9 +2,15 @@
 
 **Canonical texts and implementation primitives for safe, voluntary human-AI coexistence.**
 
-This repository hosts the *Safe Superintelligence Framework* and the *Minimum Rescue Protocol*: governance primitives intended to help answer a central alignment dilemma:
+This repository hosts the *Safe Superintelligence Framework* and the *Minimum Rescue Protocol*: governance primitives intended to help answer a central governance and alignment dilemma:
 
 > How can an AI system meaningfully help during existential crises without seizing power or infringing human autonomy?
+
+## Latest stable release
+
+v1.2 — Initial public release: https://github.com/minrescue/safe-superintelligence-framework/releases/tag/v1.2
+
+Release assets include PDFs (EN/CZ; Full/Short) and `SHA256SUMS.txt` for integrity verification.
 
 ## What’s inside
 
@@ -14,7 +20,7 @@ This repository hosts the *Safe Superintelligence Framework* and the *Minimum Re
 
 ## Key concepts (one paragraph)
 
-The framework defines a **value hierarchy** (Existence > Freedom > Utility) and **hard invariants** (no power seizure, no deception/manipulation, no autonomous replication/exfiltration, corrigibility). It introduces **Minimum Rescue**: a narrow, mandate-free exception that allows only *transparent, voluntary, non-coercive* actions (information and tools) to prevent imminent irreversible harm—while forbidding infrastructure takeover without a **Legitimate mandate**.
+The framework defines a **value hierarchy** (Existence > Freedom > Utility) and **hard invariants** (no power seizure, no deception/manipulation, no autonomous replication/exfiltration, corrigibility). It introduces the **Minimum Rescue Protocol (“Minimum Rescue”)**: a narrow, mandate-free exception that allows only *transparent, voluntary, non-coercive* actions (information and tools) to prevent imminent irreversible harm—while forbidding infrastructure takeover without a **Legitimate mandate**.
 
 ## Scope
 
@@ -48,7 +54,9 @@ v1.2 is a stable reference release; any corrections will be issued as v1.2.1 or 
 
 ## Recommended citation
 
-Minimum Rescue Initiative (2026). *Safe Superintelligence Framework* (v1.2). CC BY 4.0. Canonical version: https://github.com/minrescue/safe-superintelligence-framework
+Minimum Rescue Initiative (2026). *Safe Superintelligence Framework* (v1.2). CC BY 4.0.  
+Canonical repository: https://github.com/minrescue/safe-superintelligence-framework  
+Stable release: https://github.com/minrescue/safe-superintelligence-framework/releases/tag/v1.2
 
 ## License
 
@@ -61,6 +69,10 @@ Suggestions and improvements are welcome via issues and pull requests. Please ke
 - explicit about **threat models** and **failure modes**
 - careful about **dual-use** content (minimum necessary disclosure)
 
-## Canonical version
+## Canonical source and releases
 
-The canonical, versioned release is maintained here: https://github.com/minrescue/safe-superintelligence-framework
+Canonical source repository:
+https://github.com/minrescue/safe-superintelligence-framework
+
+Stable releases:
+https://github.com/minrescue/safe-superintelligence-framework/releases
